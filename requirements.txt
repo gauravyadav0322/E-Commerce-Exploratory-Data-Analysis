@@ -1,0 +1,17 @@
+# requirements.txt
+#
+# Python package dependencies for the EDA Project
+#
+# Install all dependencies with:
+#     pip install -r requirements.txt
+#
+# Includes:
+# - pandas and numpy for data manipulation
+# - matplotlib and seaborn for static visualization
+# - plotly for interactive visualization
+
+pandas
+numpy
+matplotlib
+seaborn
+plotly
